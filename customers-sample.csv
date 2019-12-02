@@ -1,0 +1,4 @@
+ChannelType,Address,User.UserId,User.UserAttributes.FirstName,User.UserAttributes.LastName,User.UserAttributes.age,User.UserAttributes.isActive
+EMAIL,jason.battles@lineguide.io,userid1,Raymond,Phillips,35,TRUE
+EMAIL,jason.battles@fortaleza.io,userid2,Sue,Sherman,31,FALSE
+EMAIL,Mark+pinpoint3@emaildomain.com,userid3,Mark,Price,28,
